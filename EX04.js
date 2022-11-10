@@ -1,0 +1,9 @@
+
+function modulo (nb1, nb2){
+return nb1 % nb2 
+  }
+
+// Ne touchez pas les lignes en dessous.
+module.exports = {
+  modulo
+}
